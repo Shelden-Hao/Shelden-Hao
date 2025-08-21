@@ -62,6 +62,8 @@
 
 ## 📊 GitHub 数据统计
 
+<div align="center">
+
 <!-- profile-3d-contrib 3D 贡献图-->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Shelden-Hao/Shelden-Hao/profile-3d-contrib/profile-night-rainbow.svg" />
@@ -131,6 +133,7 @@
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/js.webp">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/github.webp">
 
+</div>
 
 <!--
 **Shelden-Hao/Shelden-Hao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
