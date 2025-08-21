@@ -66,15 +66,14 @@
 
 ## 📊 GitHub 数据统计
 
-<table>
-
-![Metrics](/github-metrics.svg)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shelden-Hao)
+<!-- profile-3d-contrib 3D 贡献图-->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Shelden-Hao/Shelden-Hao/profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/Shelden-Hao/Shelden-Hao/profile-3d-contrib/profile-gitblock.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/Shelden-Hao/Shelden-Hao/profile-3d-contrib/profile-night-rainbow.svg" />
+</picture>
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shelden-Hao)
-</table>
-
 
 
 <!--
