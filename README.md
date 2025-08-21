@@ -49,9 +49,7 @@
 
 ## 🏢 Work Experience
 
-<table>
 
-<tr><td>
 
 <img align="right" width="88" src="https://raw.githubusercontent.com/Shelden-Hao/images/main/images202508211054680.png" />
 
@@ -60,9 +58,7 @@
   - 工作岗位：Web 前端开发实习生
   - 工作内容：参与网络资产攻击面管理平台 FOBrain 的开发与维护工作
 
-</td></tr>
 
-</table>
 
 ## 📊 GitHub 数据统计
 
