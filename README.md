@@ -39,7 +39,7 @@
 
 ## 🤺 About Me
 
-<img align="right" width="88" src="" />
+<img align="right" width="88" src="https://raw.githubusercontent.com/Shelden-Hao/images/main/images202508211053777.jpg" />
 
 <p>&emsp;&emsp;嗨，你好呀，我是秀秀同学✨。热爱编程、看剧、旅行。</p>
 <p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，正在努力成为一名优秀的开发者，希望用编程做一些有趣的事~ </p>
@@ -47,9 +47,13 @@
 
 </td></tr>
 
+</table>
+
 ## 🏢 Work Experience
 
-<img align="right" width="88" src="" />
+<table>
+
+<img align="right" width="88" src="https://raw.githubusercontent.com/Shelden-Hao/images/main/images202508211054680.png" />
 
 - [北京华顺信安科技有限公司](https://huashunxinan.net/) &emsp; 📌 2025-02 —— 2025-07
 
@@ -60,15 +64,18 @@
 
 <tr><td>
 
-## Hi there 👋
+</table>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shelden-Hao)
+## 📊 GitHub 数据统计
+
+<table>
 
 ![Metrics](/github-metrics.svg)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shelden-Hao)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shelden-Hao)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Shelden-Hao)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shelden-Hao)
+</table>
 
 
 
