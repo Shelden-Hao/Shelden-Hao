@@ -31,6 +31,35 @@
 
 </div>
 
+#  🙋 我是 Heo Hao
+
+<table>
+  
+<tr><td>
+
+## 🤺 About Me
+
+<img align="right" width="88" src="" />
+
+<p>&emsp;&emsp;嗨，你好呀，我是秀秀同学✨。热爱编程、看剧、旅行。</p>
+<p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，正在努力成为一名优秀的开发者，希望用编程做一些有趣的事~ </p>
+<p>&emsp;&emsp;热爱生活，拥抱世界！Not Just a Coder！🌱</p>
+
+</td></tr>
+
+## 🏢 Work Experience
+
+<img align="right" width="88" src="" />
+
+- [北京华顺信安科技有限公司](https://huashunxinan.net/) &emsp; 📌 2025-02 —— 2025-07
+
+  - 工作岗位：Web 前端开发实习生
+  - 工作内容：参与网络资产攻击面管理平台 FOBrain 的开发与维护工作
+
+</td></tr>
+
+<tr><td>
+
 ## Hi there 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shelden-Hao)
