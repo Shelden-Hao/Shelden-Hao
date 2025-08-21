@@ -71,7 +71,7 @@
   <img src="https://cdn.jsdelivr.net/gh/Shelden-Hao/Shelden-Hao/profile-3d-contrib/profile-night-rainbow.svg" />
 </picture>
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shelden-Hao)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shelden-Hao&bg_color=000000&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--  skill badge 技能徽章 -->
 
@@ -134,6 +134,8 @@
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/github.webp">
 
 </div>
+
+![68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6173736574732f696d616765732f69636f6e2e706e67](https://raw.githubusercontent.com/Shelden-Hao/images/main/images202508211115812.png)
 
 <!--
 **Shelden-Hao/Shelden-Hao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
