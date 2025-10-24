@@ -53,11 +53,16 @@
 
 <img align="right" width="88" src="https://raw.githubusercontent.com/Shelden-Hao/images/main/images202508211054680.png" />
 
+- [北京长亭科技有限公司](https://www.chaitin.cn/) &emsp; 📌 2025-09 —— 至今
+
+  - 工作岗位：Web 前端开发实习生
+  - 工作内容：参与 [主动威胁欺骗防御系统(谛听)](https://www.chaitin.cn/dsensor) 和 [安全验证平台(御衡)](https://www.chaitin.cn/alioth) 的开发与维护工作
+
+
 - [北京华顺信安科技有限公司](https://huashunxinan.net/) &emsp; 📌 2025-02 —— 2025-07
 
   - 工作岗位：Web 前端开发实习生
-  - 工作内容：参与网络资产攻击面管理平台 FOBrain 的开发与维护工作
-
+  - 工作内容：参与 [网络资产攻击面管理平台(FOBrain)](https://huashunxinan.net/product-fobrain) 的开发与维护工作
 
 
 ## 📊 GitHub 数据统计
