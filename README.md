@@ -41,7 +41,7 @@
 <img align="right" width="88" src="https://raw.githubusercontent.com/Shelden-Hao/images/main/images202508211053777.jpg" />
 
 <p>&emsp;&emsp;嗨，你好呀，我是秀秀同学✨。热爱编程、看剧、旅行。</p>
-<p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，正在努力成为一名优秀的开发者，希望用编程做一些有趣的事~ </p>
+<p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，正在努力成为一名优秀的大前端软件开发工程师，希望用编程做一些有趣的事~ </p>
 <p>&emsp;&emsp;热爱生活，拥抱世界！Not Just a Coder！🌱</p>
 
 </td></tr>
@@ -50,13 +50,28 @@
 ## 🏢 Work Experience
 
 
+<img align="right" width="87" src="https://raw.githubusercontent.com/Shelden-Hao/images/main/images202601132007704.png" />
+
+- [北京世纪好未来教育科技有限公司](https://www.100tal.com/zh-cn) &emsp; 📌 2026-01 —— 至今
+
+  - 工作岗位：前端开发实习生
+  - 工作内容
+
+<img align="right" width="88" src="https://uploadfiles.nowcoder.com/files/20241028/595327915_1730085923541/nowcoder_1730085921819.jpeg" />
+
+- 北京星河觉醒智能科技有限公司 &emsp; 📌 2025-12 —— 2026-01
+
+  - 工作岗位：前端/移动端开发实习生
+  - 工作内容：参与 [Tispt](https://tipsy.chat/) AI情感交互出海项目 Web、Web App、安卓、iOS 多端的开发工作
+
+
 
 <img align="right" width="88" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsrYM8UkEnPP0vvZ2PHl4M5cyOYq_Vf6VASw&s" />
 
-- [北京长亭科技有限公司](https://www.chaitin.cn/) &emsp; 📌 2025-09 —— 至今
+- [北京长亭科技有限公司](https://www.chaitin.cn/) &emsp; 📌 2025-09 —— 2025-12
 
   - 工作岗位：Web 前端开发实习生
-  - 工作内容：参与 [主动威胁欺骗防御系统(谛听)](https://www.chaitin.cn/dsensor) 和 [安全验证平台(御衡)](https://www.chaitin.cn/alioth) 的开发与维护工作
+  - 工作内容：参与 [主动威胁欺骗防御系统(谛听)](https://www.chaitin.cn/dsensor) 的开发与维护工作
 
 
 
