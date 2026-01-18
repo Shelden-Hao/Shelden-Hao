@@ -62,7 +62,7 @@
 - 北京星河觉醒智能科技有限公司 &emsp; 📌 2025-12 —— 2026-01
 
   - 工作岗位：前端/移动端开发实习生
-  - 工作内容：参与 [Tispt](https://tipsy.chat/) AI情感交互出海项目 Web、Web App、安卓、iOS 多端的开发工作
+  - 工作内容：参与 [Tipsy](https://tipsy.chat/) AI情感交互出海项目 Web、Web App、安卓、iOS 多端的开发工作
 
 
 
