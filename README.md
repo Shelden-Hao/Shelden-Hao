@@ -41,7 +41,7 @@
 <img align="right" width="88" src="https://raw.githubusercontent.com/Shelden-Hao/images/main/images202508211053777.jpg" />
 
 <p>&emsp;&emsp;嗨，你好呀，我是秀秀同学✨。热爱编程、看剧、旅行。</p>
-<p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，正在努力成为一名优秀的大前端软件开发工程师，希望用编程做一些有趣的事~ </p>
+<p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，正在努力成为一名优秀的软件开发工程师，希望用编程做一些有趣的事~ </p>
 <p>&emsp;&emsp;热爱生活，拥抱世界！Not Just a Coder！🌱</p>
 
 </td></tr>
@@ -54,8 +54,8 @@
 
 - [北京世纪好未来教育科技有限公司](https://www.100tal.com/zh-cn) &emsp; 📌 2026-01 —— 至今
 
-  - 工作岗位：前端开发实习生
-  - 工作内容
+  - 工作岗位：AI 前端开发工程师
+  - 工作内容；参与 AI 创作平台的研发与迭代
 
 <img align="right" width="88" src="https://uploadfiles.nowcoder.com/files/20241028/595327915_1730085923541/nowcoder_1730085921819.jpeg" />
 
