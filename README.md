@@ -50,19 +50,25 @@
 ## 🏢 Work Experience
 
 
+- [某不愿透露名字的公司]() &emsp; 📌 2026-06 —— 至今
+
+  - 工作岗位：AI 全栈开发工程师
+  - 工作内容；某不愿透露内容的工作内容。
+
+
 <img align="right" width="87" src="https://raw.githubusercontent.com/Shelden-Hao/images/main/images202601132007704.png" />
 
-- [北京世纪好未来教育科技有限公司](https://www.100tal.com/zh-cn) &emsp; 📌 2026-01 —— 至今
+- [北京世纪好未来教育科技有限公司](https://www.100tal.com/zh-cn) &emsp; 📌 2026-01 —— 2026-05
 
-  - 工作岗位：AI 前端开发工程师
-  - 工作内容；参与 AI 创作平台的研发与迭代
+  - 工作岗位：AI 全栈开发实习生
+  - 工作内容；参与内部 AI 创作平台 Web 端和 BFF 的研发与迭代
 
 <img align="right" width="88" src="https://uploadfiles.nowcoder.com/files/20241028/595327915_1730085923541/nowcoder_1730085921819.jpeg" />
 
 - 北京星河觉醒智能科技有限公司 &emsp; 📌 2025-12 —— 2026-01
 
   - 工作岗位：前端/移动端开发实习生
-  - 工作内容：参与 [Tipsy](https://tipsy.chat/) AI情感交互出海项目 Web、Web App、安卓、iOS 多端的开发工作
+  - 工作内容：参与 [TipsyChat](https://tipsy.chat/) 角色扮演与互动内容平台 Web、Web App、安卓、iOS 多端的开发工作
 
 
 
