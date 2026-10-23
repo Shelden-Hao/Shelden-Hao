@@ -89,6 +89,17 @@
   - 工作内容：参与 [网络资产攻击面管理平台(FOBrain)](https://huashunxinan.net/product-fobrain) 的开发与维护工作
 
 
+## 🚀 精选项目
+
+| 项目 | 简介 | 技术栈 |
+| :--- | :--- | :--- |
+| [**deep_search**](https://github.com/Shelden-Hao/deep_search) | 面向企业场景的多智能体深度搜索平台：主 Agent 调度三个专家子 Agent 协同取数，产出 Markdown / PDF 深度研究报告，并实时推送任务进度、工具调用与子 Agent 执行过程 | Python · Multi-Agent · SSE |
+| [**text2sql**](https://github.com/Shelden-Hao/text2sql) | 面向数据仓库的自然语言问答系统：关键词抽取 → 多路召回 → LLM 生成 SQL → 数据库校验 → 执行，覆盖表、字段、指标与取值的语义定位 | Python · LLM · SSE |
+| [**multi-modal-rag**](https://github.com/Shelden-Hao/multi-modal-rag) | 电商 / 商品知识库场景的多模态 RAG：以「商品」为核心知识单元，先锁定商品再在范围内精准检索，避免多商品场景下的检索漂移 | Python · LangGraph · 向量检索 |
+| [**intelligent-customer-service**](https://github.com/Shelden-Hao/intelligent-customer-service) | LLM 驱动的任务型对话框架：模型把自然语言翻译为结构化命令，Flow 流程引擎控制对话走向，Action 体系执行业务逻辑 | Python · LLM · 对话引擎 |
+| [**leet-code**](https://github.com/Shelden-Hao/leet-code) | 前端手撕代码与算法题库：手写题、力扣经典题、数据结构与算法、校招笔试题 | TypeScript · 算法 |
+| [**study-hub**](https://github.com/Shelden-Hao/study-hub) | 自习室预约微信小程序：自习室浏览、座位状态、预约与取消、反馈与学习统计 | 微信小程序 · TypeScript |
+
 ## 📊 GitHub 数据统计
 
 <div align="center">
