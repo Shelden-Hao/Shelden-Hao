@@ -37,6 +37,7 @@
 
 - [About Me](#-about-me)
 - [Work Experience](#-work-experience)
+- [开源贡献](#-开源贡献)
 - [精选项目](#-精选项目)
 - [GitHub 数据统计](#-github-数据统计)
 
@@ -95,7 +96,7 @@
   - 工作岗位：Web 前端开发实习生
   - 工作内容：参与 [网络资产攻击面管理平台(FOBrain)](https://huashunxinan.net/product-fobrain) 的开发与维护工作
 
-## 开源贡献
+## 🛠️ 开源贡献
 
 - **[rea](https://github.com/morluto/rea)**  [![GitHub stars](https://img.shields.io/github/stars/morluto/rea?style=flat&color=gold)](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries. ([#9278](https://github.com/morluto/rea/pull/9278))
 
