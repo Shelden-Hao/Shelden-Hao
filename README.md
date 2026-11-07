@@ -37,7 +37,7 @@
 
 - [About Me](#-about-me)
 - [Work Experience](#-work-experience)
-- [开源贡献](#-开源贡献)
+- [开源贡献](#%EF%B8%8F-开源贡献)
 - [精选项目](#-精选项目)
 - [GitHub 数据统计](#-github-数据统计)
 
