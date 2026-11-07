@@ -97,7 +97,7 @@
 
 ## 开源贡献
 
-- **[rea](https://github.com/morluto/rea)** [![GitHub stars](https://img.shields.io/github/stars/garrytan/gstack?style=flat&color=gold)](https://github.com/morluto/rea)
+- **[rea](https://github.com/morluto/rea)**  [![GitHub stars](https://img.shields.io/github/stars/morluto/rea?style=flat&color=gold)](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 
 ## 🚀 精选项目
 
