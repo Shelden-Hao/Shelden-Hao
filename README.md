@@ -95,6 +95,9 @@
   - 工作岗位：Web 前端开发实习生
   - 工作内容：参与 [网络资产攻击面管理平台(FOBrain)](https://huashunxinan.net/product-fobrain) 的开发与维护工作
 
+## 开源贡献
+
+- **[rea](https://github.com/morluto/rea)** [![GitHub stars](https://img.shields.io/github/stars/garrytan/gstack?style=flat&color=gold)](https://github.com/morluto/rea)
 
 ## 🚀 精选项目
 
